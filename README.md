@@ -12,7 +12,7 @@ API desenvolvida com java Spring Boot. Atualmente a API utiliza o banco de dados
 * PostgreSql
 
 ## Executando o projeto
-Primeiramente, você deve ter todo o ambiente configurado para rodar uma aplicação Spring boot, juntamente com o postgressql instalado, e o servidor do postgres iniciado na porta 5432. esse [Link](https://code.visualstudio.com/docs/java/java-spring-boot) informa como configurar e executar uma aplicação spring utilizando VsCode. Com todo o ambiente configurado, você pode executar a aplicação na parte do spring-Boot-Dashboard no vscode.   
+Primeiramente, você deve ter todo o ambiente configurado para rodar uma aplicação Spring boot, juntamente com o postgresql instalado, e o servidor do postgres iniciado na porta 5432. esse [Link](https://code.visualstudio.com/docs/java/java-spring-boot) informa como configurar e executar uma aplicação spring utilizando VsCode. Com todo o ambiente configurado, você pode executar a aplicação na parte do spring-Boot-Dashboard no vscode.   
 
 ### EndPoints
 
